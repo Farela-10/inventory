@@ -30,8 +30,8 @@
           <thead>
             <tr>
               <th>Categoría</th>
-              <th>Nombre</th>
-              <th>Detalles</th>
+              <th>SKU</th>
+              <th>Descripción</th>
               <th>Editar</th>
               <th>Eliminar</th>
             </tr>

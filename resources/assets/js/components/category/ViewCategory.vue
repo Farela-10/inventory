@@ -16,7 +16,7 @@
         <table class="table table-condensed table-hover">
           <thead>
             <tr>
-              <th>Nombre</th>
+              <th>Categoria</th>
               <th>Editar</th>
               <th>Eliminar</th>
             </tr>

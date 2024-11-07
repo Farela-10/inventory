@@ -20,6 +20,7 @@
         <h2 style="text-align:center">Cargando.......</h2>
       </div>
 
+      
       <div class="table-responsive" v-else>
         <table class="table table-condensed table-hover">
           <thead>
@@ -28,9 +29,6 @@
               <th>Correo electrónico</th>
               <th>Teléfono</th>
               <th>Dirección</th>
-              <th>Importe comprado</th>
-              <th>Importe pagado</th>
-              <th>Importe debido</th>
               <th>Editar</th>
             </tr>
           </thead>
@@ -40,9 +38,9 @@
               <td>{{ value.email }}</td>
               <td>{{ value.phone }}</td>
               <td>{{ value.address }}</td>
-              <td>{{ value.total_amount }}</td>
+            <!--  <td>{{ value.total_amount }}</td> 
               <td>{{ value.total_paid_amount }}</td>
-              <td>{{ value.total_amount - value.total_paid_amount }}</td>
+              <td>{{ value.total_amount - value.total_paid_amount }}</td> -->
               <td>
                 <button @click="editcustomer(value.id)" type="button"
                   class="btn bg-blue btn-circle waves-effect waves-circle waves-float">

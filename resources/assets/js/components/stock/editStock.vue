@@ -76,30 +76,6 @@
                 <div class="col-md-6">
                   <div class="input-group">
                     <span class="input-group-addon">
-                      <i class="material-icons">attach_money</i>
-                    </span>
-                    <div class="form-line">
-                      <input type="text" class="form-control" placeholder="Precio de compra"
-                        v-model="stock.buying_price" />
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-6">
-                  <div class="input-group">
-                    <span class="input-group-addon">
-                      <i class="material-icons">attach_money</i>
-                    </span>
-                    <div class="form-line">
-                      <input type="text" class="form-control" placeholder="Precio de venta"
-                        v-model="stock.selling_price" />
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-6">
-                  <div class="input-group">
-                    <span class="input-group-addon">
                       <i class="material-icons">add</i>
                     </span>
                     <div class="form-line">

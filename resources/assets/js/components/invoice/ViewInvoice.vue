@@ -41,10 +41,8 @@
               <th>Facturación</th>
               <th>Fecha</th>
               <th>Cliente</th>
-              <th>Monto total</th>
-              <th>Pagado</th>
-              <th>Debido</th>
-              <th>Vendido por</th>
+              <th>Cantidad de Cajas</th>
+              <th>Pedido preparado por</th>
               <th>Pagos</th>
               <th>Abonar</th>
               <th>Imprimir</th>

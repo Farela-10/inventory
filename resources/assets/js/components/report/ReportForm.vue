@@ -5,8 +5,8 @@
 			<div class="input-group">
 				<div class="form-line">
 					<select class="form-control select2" name="type" required="" v-model="report_type" v-select="report_type">
-						<option :value="''">Chose Report Type *</option>
-						<option :value="'stock'">Stock Report</option>
+						<option :value="''"> Tipo de Reporte *</option>
+						<option :value="'stock'"> Reporte </option>
 						<option :value="'sell'">Sell Report</option>
 						<option :value="'profit'">Profit Report</option>
 						<option :value="'due'">Due Report</option>

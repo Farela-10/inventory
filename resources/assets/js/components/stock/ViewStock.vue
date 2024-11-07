@@ -44,11 +44,9 @@
               <th>Categoría</th>
               <th>Producto</th>
               <th>Proveedor</th>
-              <th>Comprobante</th>
+              <th>Orden de Compra</th>
               <th>Existencia inicial</th>
               <th>Existencia actual</th>
-              <th>Precio de compra</th>
-              <th>Precio de venta</th>
               <th>Entrada por</th>
               <th>Fecha de entrada</th>
               <th>Agregar</th>
